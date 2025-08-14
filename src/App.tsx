@@ -1,6 +1,6 @@
 
 import UsersList from './components/UsersList'
-import PostsList from './components/PostslIst'
+import PostsList from './components/Postslist'
 import SimpleForm  from './components/SimpleForm'
 
 
